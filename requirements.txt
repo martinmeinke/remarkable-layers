@@ -5,7 +5,6 @@ lxml==4.5.1
 numpy==1.19.0
 pillow==7.1.2
 pyaml==19.4.1
--e git+https://github.com/flupke/pypotrace.git@76c76be2458eb2b56fcbd3bec79b1b4077e35d9e#egg=pypotrace
 pyyaml==5.3.1
 requests==2.24.0
 rmapy @ git+https://github.com/subutux/rmapy.git@master

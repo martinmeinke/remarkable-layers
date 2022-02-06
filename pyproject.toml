@@ -11,7 +11,6 @@ svgpathtools = { git = "https://github.com/mathandy/svgpathtools.git", rev = "f9
 rmapy = {git = "https://github.com/subutux/rmapy.git", rev = "master"}
 pillow = { version = "^8.0.0" }
 numpy = { version = "^1.19.4" }
-potrace = { git = "https://github.com/bsdz/pypotrace.git", rev = "master" }
 
 [tool.poetry.dev-dependencies]
 black = "^19.10b0"
